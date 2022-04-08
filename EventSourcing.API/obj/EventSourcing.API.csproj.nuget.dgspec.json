@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj": {}
+    "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj": {}
   },
   "projects": {
-    "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj": {
+    "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
+        "projectUniqueName": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
         "projectName": "EventSourcing.API",
-        "projectPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
+        "projectPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
         "packagesPath": "/Users/farukcokmez/.nuget/packages/",
-        "outputPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/obj/",
+        "outputPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/farukcokmez/.config/NuGet/NuGet.Config"

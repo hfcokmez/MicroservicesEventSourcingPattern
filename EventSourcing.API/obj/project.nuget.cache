@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7RbuJnxRy/NGzeEL36QzHxGsnsPb17qux/n+JJCu1oQPNRWxgvpfVDr5NByBPG7F23mACTCR1xYajIzJS3ezQ==",
+  "dgSpecHash": "TClz4TnvgA9poA6hevnQ1KvSxfVGRjC+ip6a/y8ooPF+cK8W9EdyumpDfKBYWoBUbl+VXRVTZI4THHc4baPTXg==",
   "success": true,
-  "projectFilePath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
+  "projectFilePath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/EventSourcing.API.csproj",
   "expectedPackageFiles": [
     "/Users/farukcokmez/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
     "/Users/farukcokmez/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",

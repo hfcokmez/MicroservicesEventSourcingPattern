@@ -1,10 +1,10 @@
 ﻿using System;
+using MediatR;
+
 namespace EventSourcing.API.Commands
 {
-    public class DeleteProductCommand
+    public class DeleteProductCommand : IRequest
     {
-        public DeleteProductCommand()
-        {
-        }
+        public Guid Id { get; set; }
     }
 }

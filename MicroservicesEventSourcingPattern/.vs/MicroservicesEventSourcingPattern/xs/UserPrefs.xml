@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A187166E-E6B9-4FCA-B829-1C4C32DF0071}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Commands/ChangeProductNameCommand.cs">
+    <Files>
+      <File FileName="EventSourcing.API/Commands/ChangeProductNameCommand.cs" Line="1" Column="1" />
+      <File FileName="EventSourcing.Shared/Events/Concrete/ProductDeletedEvent.cs" Line="6" Column="46" />
+      <File FileName="EventSourcing.Shared/Events/Concrete/ProductCreatedEvent.cs" Line="15" Column="1" />
+      <File FileName="EventSourcing.Shared/Events/Concrete/ProductNameChangedEvent.cs" Line="9" Column="34" />
+      <File FileName="EventSourcing.Shared/Events/Concrete/ProductPriceChangedEvent.cs" Line="6" Column="51" />
+      <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" Line="1" Column="1" />
+      <File FileName="EventSourcing.API/Commands/ChangeProductPriceCommand.cs" Line="1" Column="1" />
+      <File FileName="EventSourcing.Shared/Events/Abstract/IEvent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroservicesEventSourcingPattern" expanded="True">
+            <Node name="EventSourcing.API" expanded="True" selected="True">
+              <Node name="Commands" expanded="True" />
+            </Node>
+            <Node name="EventSourcing.Shared" expanded="True">
+              <Node name="Events" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concrete" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EventSourcing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

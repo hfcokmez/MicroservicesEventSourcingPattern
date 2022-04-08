@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17XxD0r/zrEqGluiDdy87ze0QsZHoXiUTUqeLKCcOF80qLmoI/iaCe/aCaJiRzfURni/hSEwDsfwKeD2Mx4YJw==",
+  "dgSpecHash": "ra4faBwuFQe5TlVzo98aF2jbHR2tFxNH7DqK1feqQtWp3ecC6QagjUL1ufLM1Rzb1Hf4vDDmP7hIJON+ekJFHg==",
   "success": true,
-  "projectFilePath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
+  "projectFilePath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

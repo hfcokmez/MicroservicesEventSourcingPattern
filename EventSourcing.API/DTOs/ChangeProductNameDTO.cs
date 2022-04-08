@@ -1,10 +1,10 @@
 ﻿using System;
+using MediatR;
+
 namespace EventSourcing.API.DTOs
 {
-    public class ChangeProductNameDTO
+    public class ChangeProductNameDTO 
     {
-        public ChangeProductNameDTO()
-        {
-        }
+        public ChangeProductNameDTO MyProperty { get; set; }
     }
 }

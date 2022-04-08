@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A187166E-E6B9-4FCA-B829-1C4C32DF0071}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Commands/DeleteProductCommand.cs">
+    <Files>
+      <File FileName="EventSourcing.API/DTOs/ChangeProductNameDTO.cs" Line="6" Column="39" />
+      <File FileName="EventSourcing.API/Commands/ChangeProductNameCommand.cs" Line="12" Column="1" />
+      <File FileName="EventSourcing.API/Commands/ChangeProductPriceCommand.cs" Line="9" Column="53" />
+      <File FileName="EventSourcing.API/DTOs/ChangeProductPriceDTO.cs" Line="4" Column="39" />
+      <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" Line="9" Column="41" />
+      <File FileName="EventSourcing.API/Commands/DeleteProductCommand.cs" Line="6" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroservicesEventSourcingPattern" expanded="True">
+            <Node name="EventSourcing.API" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="DeleteProductCommand.cs" selected="True" />
+              </Node>
+              <Node name="DTOs" expanded="True" />
+            </Node>
+            <Node name="EventSourcing.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EventSourcing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

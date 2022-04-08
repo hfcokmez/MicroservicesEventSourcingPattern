@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
+      "projectUniqueName": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
       "projectName": "EventSourcing.Shared",
-      "projectPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
+      "projectPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/EventSourcing.Shared.csproj",
       "packagesPath": "/Users/farukcokmez/.nuget/packages/",
-      "outputPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/",
+      "outputPath": "/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/farukcokmez/.config/NuGet/NuGet.Config"

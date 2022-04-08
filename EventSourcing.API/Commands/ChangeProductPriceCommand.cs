@@ -1,10 +1,11 @@
 ﻿using System;
+using MediatR;
+using EventSourcing.API.DTOs;
+
 namespace EventSourcing.API.Commands
 {
-    public class ChangeProductPriceCommand
+    public class ChangeProductPriceCommand : IRequest
     {
-        public ChangeProductPriceCommand()
-        {
-        }
+        public ChangeProductPriceDTO ChangeProductPriceDTO { get; set; }
     }
 }

@@ -1,10 +1,8 @@
 ﻿using System;
 namespace EventSourcing.API.DTOs
 {
-    public class ChangeProductPrice
+    public class ChangeProductPriceDTO
     {
-        public ChangeProductPrice()
-        {
-        }
+        
     }
 }

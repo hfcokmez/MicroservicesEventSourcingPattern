@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Events\" />
+    <None Remove="Events\Abstract\" />
+    <None Remove="Events\Concrete\" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Events\" />
+    <Folder Include="Events\Abstract\" />
+    <Folder Include="Events\Concrete\" />
+  </ItemGroup>
+</Project>

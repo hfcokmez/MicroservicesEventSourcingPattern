@@ -8,4 +8,4 @@ namespace EventSourcing.API.Commands
     {
         public ChangeProductPriceDTO ChangeProductPriceDTO { get; set; }
     }
-}
+} 

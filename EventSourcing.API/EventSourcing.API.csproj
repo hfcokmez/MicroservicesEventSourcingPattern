@@ -9,6 +9,7 @@
     <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
     <None Remove="Commands\" />
     <None Remove="EventStores\" />
+    <None Remove="EventStore.Client" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
@@ -17,5 +18,11 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="EventStore.Client" Version="21.2.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EventSourcing.Shared\EventSourcing.Shared.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

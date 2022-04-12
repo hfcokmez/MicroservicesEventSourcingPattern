@@ -10,11 +10,15 @@
     <None Remove="Commands\" />
     <None Remove="EventStores\" />
     <None Remove="EventStore.Client" />
+    <None Remove="Handlers\" />
+    <None Remove="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
     <Folder Include="Commands\" />
     <Folder Include="EventStores\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />

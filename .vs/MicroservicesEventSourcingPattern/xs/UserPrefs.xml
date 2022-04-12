@@ -1,30 +1,35 @@
 ﻿<Properties StartupConfiguration="{A187166E-E6B9-4FCA-B829-1C4C32DF0071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/DTOs/ProductDTO.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Handlers/ChangeProductPriceCommandHandler.cs">
     <Files>
       <File FileName="EventSourcing.API/EventStores/StreamBase.cs" Line="12" Column="27" />
-      <File FileName="EventSourcing.Shared/Events/Abstract/IEvent.cs" Line="1" Column="14" />
+      <File FileName="EventSourcing.Shared/Events/Abstract/IEvent.cs" />
       <File FileName="EventSourcing.Shared/Events/Concrete/ProductCreatedEvent.cs" />
-      <File FileName="EventSourcing.API/Commands/ChangeProductPriceCommand.cs" Line="1" Column="1" />
-      <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" Line="1" Column="1" />
-      <File FileName="EventSourcing.API/Commands/DeleteProductCommand.cs" Line="3" Column="1" />
-      <File FileName="EventSourcing.API/EventStores/EventStoreExtension.cs" Line="30" Column="16" />
-      <File FileName="EventSourcing.API/appsettings.json" Line="3" Column="157" />
-      <File FileName="EventSourcing.API/Startup.cs" Line="30" Column="39" />
-      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" Line="15" Column="43" />
-      <File FileName="EventSourcing.API/DTOs/CreateProductDTO.cs" Line="6" Column="9" />
-      <File FileName="EventSourcing.API/DTOs/ChangeProductPriceDTO.cs" Line="1" Column="1" />
-      <File FileName="EventSourcing.API/DTOs/ChangeProductNameDTO.cs" Line="1" Column="1" />
-      <File FileName="EventSourcing.API/DTOs/ProductDTO.cs" Line="1" Column="1" />
+      <File FileName="EventSourcing.API/Commands/ChangeProductPriceCommand.cs" />
+      <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" />
+      <File FileName="EventSourcing.API/Commands/DeleteProductCommand.cs" />
+      <File FileName="EventSourcing.API/EventStores/EventStoreExtension.cs" />
+      <File FileName="EventSourcing.API/appsettings.json" />
+      <File FileName="EventSourcing.API/Startup.cs" />
+      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" />
+      <File FileName="EventSourcing.API/DTOs/CreateProductDTO.cs" />
+      <File FileName="EventSourcing.API/DTOs/ChangeProductPriceDTO.cs" />
+      <File FileName="EventSourcing.API/DTOs/ChangeProductNameDTO.cs" />
+      <File FileName="EventSourcing.API/DTOs/ProductDTO.cs" />
+      <File FileName="EventSourcing.API/Handlers/CreateProductCommandHandler.cs" Line="21" Column="13" />
+      <File FileName="EventSourcing.API/Handlers/DeleteProductCommandHandler.cs" Line="18" Column="23" />
+      <File FileName="EventSourcing.API/Handlers/ChangeProductNameCommandHandler.cs" Line="21" Column="69" />
+      <File FileName="EventSourcing.API/Commands/ChangeProductNameCommand.cs" Line="1" Column="1" />
+      <File FileName="EventSourcing.API/Handlers/ChangeProductPriceCommand.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroservicesEventSourcingPattern" expanded="True">
             <Node name="EventSourcing.API" expanded="True">
-              <Node name="DTOs" expanded="True">
-                <Node name="ProductDTO.cs" selected="True" />
+              <Node name="Commands" expanded="True" />
+              <Node name="Handlers" expanded="True">
+                <Node name="ChangeProductPriceCommandHandler.cs" selected="True" />
               </Node>
-              <Node name="EventStores" expanded="True" />
             </Node>
           </Node>
         </State>

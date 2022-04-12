@@ -1,0 +1,12 @@
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/bin/Debug/net5.0/EventSourcing.Shared.deps.json
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/bin/Debug/net5.0/EventSourcing.Shared.dll
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/bin/Debug/net5.0/ref/EventSourcing.Shared.dll
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/bin/Debug/net5.0/EventSourcing.Shared.pdb
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.csproj.AssemblyReference.cache
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.AssemblyInfoInputs.cache
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.AssemblyInfo.cs
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.csproj.CoreCompileInputs.cache
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.dll
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/ref/EventSourcing.Shared.dll
+/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.Shared/obj/Debug/net5.0/EventSourcing.Shared.pdb

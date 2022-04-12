@@ -12,6 +12,7 @@
     <None Remove="EventStore.Client" />
     <None Remove="Handlers\" />
     <None Remove="Controllers\" />
+    <None Remove="Swashbuckle.AspNetCore" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
@@ -23,6 +24,7 @@
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
     <PackageReference Include="EventStore.Client" Version="21.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EventSourcing.Shared\EventSourcing.Shared.csproj">

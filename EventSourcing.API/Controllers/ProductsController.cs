@@ -21,7 +21,10 @@ namespace EventSourcing.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(CreateProductDTO createProductDTO)
         {
-            await _mediator.Send(new CreateProductCommand() { CreateProductDto = createProductDTO });
+
+
+                await _mediator.Send(new CreateProductCommand() { CreateProductDto = createProductDTO });
+           
             return NoContent();
         }
         [HttpPut]

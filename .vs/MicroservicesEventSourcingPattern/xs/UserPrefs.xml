@@ -1,40 +1,40 @@
 ﻿<Properties StartupConfiguration="{A187166E-E6B9-4FCA-B829-1C4C32DF0071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Models/AppDbContext.cs">
     <Files>
-      <File FileName="EventSourcing.API/EventStores/StreamBase.cs" Line="12" Column="27" />
+      <File FileName="EventSourcing.API/EventStores/StreamBase.cs" Line="29" Column="1" />
       <File FileName="EventSourcing.Shared/Events/Abstract/IEvent.cs" />
       <File FileName="EventSourcing.Shared/Events/Concrete/ProductCreatedEvent.cs" />
       <File FileName="EventSourcing.API/Commands/ChangeProductPriceCommand.cs" />
       <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" />
       <File FileName="EventSourcing.API/Commands/DeleteProductCommand.cs" />
       <File FileName="EventSourcing.API/EventStores/EventStoreExtension.cs" />
-      <File FileName="EventSourcing.API/appsettings.json" Line="3" Column="157" />
-      <File FileName="EventSourcing.API/Startup.cs" Line="77" Column="36" />
-      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" />
+      <File FileName="EventSourcing.API/appsettings.json" Line="3" Column="50" />
+      <File FileName="EventSourcing.API/Startup.cs" Line="33" Column="35" />
+      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" Line="25" Column="1" />
       <File FileName="EventSourcing.API/DTOs/CreateProductDTO.cs" />
       <File FileName="EventSourcing.API/DTOs/ChangeProductPriceDTO.cs" />
       <File FileName="EventSourcing.API/DTOs/ChangeProductNameDTO.cs" />
       <File FileName="EventSourcing.API/DTOs/ProductDTO.cs" />
-      <File FileName="EventSourcing.API/Handlers/CreateProductCommandHandler.cs" />
+      <File FileName="EventSourcing.API/Handlers/CreateProductCommandHandler.cs" Line="22" Column="1" />
       <File FileName="EventSourcing.API/Handlers/DeleteProductCommandHandler.cs" />
       <File FileName="EventSourcing.API/Handlers/ChangeProductNameCommandHandler.cs" />
       <File FileName="EventSourcing.API/Commands/ChangeProductNameCommand.cs" />
-      <File FileName="EventSourcing.API/Controllers/ProductsController.cs" />
-      <File FileName="EventSourcing.API/Program.cs" Line="1" Column="1" />
-      <File FileName="EventSourcing.API/Properties/launchSettings.json" Line="12" Column="20" />
+      <File FileName="EventSourcing.API/Controllers/ProductsController.cs" Line="26" Column="1" />
+      <File FileName="EventSourcing.API/Program.cs" />
+      <File FileName="EventSourcing.API/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="EventSourcing.API/Models/Product.cs" Line="10" Column="41" />
+      <File FileName="EventSourcing.API/Models/AppDbContext.cs" Line="4" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroservicesEventSourcingPattern" expanded="True">
             <Node name="EventSourcing.API" expanded="True">
-              <Node name="Commands" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="DTOs" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
               </Node>
             </Node>
+            <Node name="EventSourcing.Shared" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -43,7 +43,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/farukcokmez/Documents/GitHub/MicroservicesEventSourcingPattern/EventSourcing.API/Controllers/ProductsController.cs" relfile="EventSourcing.API/Controllers/ProductsController.cs" line="26" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.EventSourcing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />

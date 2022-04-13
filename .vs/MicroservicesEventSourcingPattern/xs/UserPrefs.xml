@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A187166E-E6B9-4FCA-B829-1C4C32DF0071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/Models/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventSourcing.API/BackgroundServices/ProductReadModelEventStore.cs">
     <Files>
       <File FileName="EventSourcing.API/EventStores/StreamBase.cs" Line="29" Column="1" />
       <File FileName="EventSourcing.Shared/Events/Abstract/IEvent.cs" />
@@ -8,9 +8,9 @@
       <File FileName="EventSourcing.API/Commands/CreateProductCommand.cs" />
       <File FileName="EventSourcing.API/Commands/DeleteProductCommand.cs" />
       <File FileName="EventSourcing.API/EventStores/EventStoreExtension.cs" />
-      <File FileName="EventSourcing.API/appsettings.json" Line="3" Column="50" />
-      <File FileName="EventSourcing.API/Startup.cs" Line="33" Column="35" />
-      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" Line="25" Column="1" />
+      <File FileName="EventSourcing.API/appsettings.json" Line="3" Column="100" />
+      <File FileName="EventSourcing.API/Startup.cs" Line="35" Column="14" />
+      <File FileName="EventSourcing.API/EventStores/ProductStream.cs" Line="11" Column="52" />
       <File FileName="EventSourcing.API/DTOs/CreateProductDTO.cs" />
       <File FileName="EventSourcing.API/DTOs/ChangeProductPriceDTO.cs" />
       <File FileName="EventSourcing.API/DTOs/ChangeProductNameDTO.cs" />
@@ -23,15 +23,16 @@
       <File FileName="EventSourcing.API/Program.cs" />
       <File FileName="EventSourcing.API/Properties/launchSettings.json" Line="1" Column="1" />
       <File FileName="EventSourcing.API/Models/Product.cs" Line="10" Column="41" />
-      <File FileName="EventSourcing.API/Models/AppDbContext.cs" Line="4" Column="33" />
+      <File FileName="EventSourcing.API/Models/AppDbContext.cs" Line="11" Column="39" />
+      <File FileName="EventSourcing.API/BackgroundServices/ProductReadModelEventStore.cs" Line="4" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroservicesEventSourcingPattern" expanded="True">
             <Node name="EventSourcing.API" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="AppDbContext.cs" selected="True" />
+              <Node name="BackgroundServices" expanded="True">
+                <Node name="ProductReadModelEventStore.cs" selected="True" />
               </Node>
             </Node>
             <Node name="EventSourcing.Shared" expanded="True" />
